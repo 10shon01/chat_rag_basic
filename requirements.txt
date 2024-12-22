@@ -1,0 +1,10 @@
+chainlit
+openai
+langchain
+langchain-community
+pymupdf
+unstructured
+python-docx
+chromadb
+faiss-cpu
+tiktoken
